@@ -1,0 +1,18 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <!-- Nome do aplicativo -->
+    <string name="app_name">Classy</string>
+
+    <!-- Textos dos botões e campos de texto -->
+    <string name="new_appointment">Nova Consulta</string>
+    <string name="save_appointment">Salvar Consulta</string>
+    <string name="client_name">Nome do Cliente</string>
+    <string name="appointment_type">Tipo de Consulta</string>
+    <string name="time">Horário (ex: 14:00)</string>
+    <string name="notes">Observações</string>
+    <string name="appointment_saved">Consulta agendada!</string>
+
+    <!-- Mensagens -->
+    <string name="select_date">Selecione uma data</string>
+    <string name="enter_details">Insira os detalhes da consulta</string>
+</resources>
